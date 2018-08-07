@@ -1,0 +1,5 @@
+Maven release plugin
+- prepares for a release
+- perform a release
+  = check out from Source control mgmt (git)
+  = will do a deploy step for artifacts that will get deployed to nexus server or maven central

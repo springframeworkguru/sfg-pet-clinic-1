@@ -46,7 +46,7 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:git@github.com:programmedtorun/sfg-pet-clinic.git</developerConnection>
-		<tag>0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 </project>

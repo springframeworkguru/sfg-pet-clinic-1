@@ -1,4 +1,4 @@
-package src.main.java.guru.springframework.sfgpetclinic.model;
+package guru.springframework.sfgpetclinic.model;
 
 /**
  * Created by patrickskelley on Aug, 2018
@@ -8,10 +8,10 @@ public class Person {
     private String firstName;
     private String lastName;
 
-    public Person(String firstName, String lastName) {
-        this.firstName = firstName;
-        this.lastName = lastName;
-    }
+//    public Person(String firstName, String lastName) {
+//        this.firstName = firstName;
+//        this.lastName = lastName;
+//    }
 
 
     public String getFirstName() {
